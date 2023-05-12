@@ -7,11 +7,6 @@
     <title>Mon PortFolio</title>
 </head>
 <body>
-    <h1>Bienvenue sur le site de Dylan Gesbert</h1>
-
-    <br>Nous somme sur l'index.html
     
-    <meta http-equiv="Refresh" content="0; url='https://thedougstave.github.io/accueil.php'" />    
-
 </body>
 </html>
